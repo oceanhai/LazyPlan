@@ -1,7 +1,9 @@
-package com.oceanhai.lazyplan;
+package com.oceanhai.lazyplan.ui.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.oceanhai.lazyplan.R;
 
 public class MainActivity extends AppCompatActivity {
 
